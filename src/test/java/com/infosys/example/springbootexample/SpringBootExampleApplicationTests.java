@@ -1,4 +1,4 @@
-package com.infosys.example.springbooteapmle;
+package com.infosys.example.springbootexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
